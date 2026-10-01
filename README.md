@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi 👋 My name is Kirin Thanjai
 
-<!--
-**kirint-dev/kirint-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student Developer | Web Developer**
+- 🌍 I'm based in Thailand
+- 🌱 I'm currently learning and building small web projects
+- 💼 Check out my portfolio: [kirint-dev.github.io/kirin/](https://kirint-dev.github.io/kirin/)
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github" alt="My Skills" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirint-dev&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirint-dev&layout=compact&theme=radical)
